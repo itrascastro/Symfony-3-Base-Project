@@ -1,7 +1,7 @@
 Symfony 3 Base Project by Ismael Trascastro
 ===========================================
 
-Installed bundles and other staff
+Installed bundles and other stuff
 ---------------------------------
 
 - FriendsOfSymfony/FOSUserBundle
