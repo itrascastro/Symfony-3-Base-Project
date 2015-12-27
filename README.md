@@ -28,7 +28,14 @@ Installation
 
 - Run composer update
 
+    Move into your project
+
     ```
     cd myproject
+    ```
+
+    and run this composer command
+
+    ```
     composer update
     ```
