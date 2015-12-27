@@ -17,5 +17,13 @@ Installed bundles and other stuff
 - symfony/assetic-bundle installed and configured
 - doctrine/doctrine-fixtures-bundle
 
-All you have to do is run: composer update
-------------------------------------------
+Installation
+------------
+
+- Clone this repository
+
+    git clone https://github.com/libgit2/libgit2 myproject
+
+- Run composer update
+
+    composer update
