@@ -22,8 +22,12 @@ Installation
 
 - Clone this repository
 
-    git clone https://github.com/libgit2/libgit2 myproject
+    ```
+    git clone https://github.com/itrascastro/Symfony-3-Base-Project myproject
+    ```
 
 - Run composer update
 
+    ```
     composer update
+    ```
