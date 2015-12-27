@@ -29,5 +29,6 @@ Installation
 - Run composer update
 
     ```
+    cd myproject
     composer update
     ```
