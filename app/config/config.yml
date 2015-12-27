@@ -87,8 +87,8 @@ fos_user:
         confirmation:
             enabled: true
     from_email:
-        address:        symfonyclassroom@gmail.com
-        sender_name:    Symfony Classroom
+        address:        youremailaccount@gmail.com
+        sender_name:    YourSenderName
 
 knp_paginator:
     page_range: 2                      # default page range used in pagination control
