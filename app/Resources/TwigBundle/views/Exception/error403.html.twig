@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Error 403 - Forbidden</h1>
+
+    {# example security usage, see below #}
+    {% if is_granted('IS_AUTHENTICATED_FULLY') %}
+        {# ... #}
+    {% endif %}
+
+    <p>
+        You do not have enough privileges to access this page <a href="{{ path('app_article_articles') }}">return to the homepage</a>.
+    </p>
+{% endblock %}
