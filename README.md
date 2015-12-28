@@ -23,7 +23,7 @@ Installation
 - Clone this repository
 
     ```
-    git clone https://github.com/itrascastro/Symfony-3-Base-Project myproject
+    git clone https://github.com/itrascastro/Symfony-3-Base-Project.git myproject
     ```
 
 - Run composer update
