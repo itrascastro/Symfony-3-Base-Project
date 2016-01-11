@@ -1,5 +1,5 @@
-Symfony 3 Base Project by Ismael Trascastro
-===========================================
+Symfony 3 Base Project
+======================
 
 Installed bundles and other stuff
 ---------------------------------
