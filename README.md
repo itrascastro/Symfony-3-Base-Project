@@ -20,6 +20,8 @@ Installed bundles and other stuff
 Installation
 ------------
 
+PHP >= 5.5.9 required
+
 - Clone this repository
 
     ```
