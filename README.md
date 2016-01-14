@@ -22,22 +22,24 @@ Installation
 
 PHP >= 5.5.9 required
 
-- Clone this repository
+## 1. Installing Composer
 
-    ```
-    git clone https://github.com/itrascastro/Symfony-3-Base-Project.git myproject
-    ```
+Composer is the dependency manager used by modern PHP applications and it can also be used to create new applications.
 
-- Run composer update
+Download the installer from [getcomposer.org/download](https://getcomposer.org/download/), execute it and follow the instructions.
 
-    Move into your project
+## Creating a new project with Composer
 
-    ```
-    cd myproject
-    ```
+  ```
+  php composer.phar create-project itrascastro/symfony-3-base-project my_project_name
+  ```
 
-    and run this composer command
+If you did a global install and do not have the composer.phar in that directory run this instead:
 
-    ```
-    composer update
-    ```
+  ```
+  composer create-project itrascastro/symfony-3-base-project my_project_name
+  ```
+
+## Renaming the 'Trascastro' folder
+
+Finally we have to rename the folder under which our own UserBundle is. You can make a search and replace in path (your project root) for 'Trascastro'.
