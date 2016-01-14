@@ -22,7 +22,7 @@ Installation
 
 PHP >= 5.5.9 required
 
-## 1. Installing Composer
+## Installing Composer
 
 Composer is the dependency manager used by modern PHP applications and it can also be used to create new applications.
 
