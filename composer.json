@@ -1,5 +1,5 @@
 {
-    "name": "itrascastro/symfony.3.base.project",
+    "name": "itrascastro/symfony-3-base-project",
     "license": "proprietary",
     "type": "project",
     "autoload": {
