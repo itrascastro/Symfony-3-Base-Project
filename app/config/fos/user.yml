@@ -1,0 +1,10 @@
+fos_user:
+    db_driver: orm
+    firewall_name: main
+    user_class: Trascastro\UserBundle\Entity\User
+    registration:
+        confirmation:
+            enabled: true
+    from_email:
+        address:        youremailaccount@gmail.com
+        sender_name:    YourSenderName
