@@ -928,12 +928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Atlantic18/DoctrineExtensions.git",
-                "reference": "494483b0bc8e09d3147b84a0eae699b25aa0a15b"
+                "reference": "6edc04eea3325032f298ed51ec3b4d6048e08c1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Atlantic18/DoctrineExtensions/zipball/494483b0bc8e09d3147b84a0eae699b25aa0a15b",
-                "reference": "494483b0bc8e09d3147b84a0eae699b25aa0a15b",
+                "url": "https://api.github.com/repos/Atlantic18/DoctrineExtensions/zipball/6edc04eea3325032f298ed51ec3b4d6048e08c1c",
+                "reference": "6edc04eea3325032f298ed51ec3b4d6048e08c1c",
                 "shasum": ""
             },
             "require": {
@@ -999,7 +999,7 @@
                 "tree",
                 "uploadable"
             ],
-            "time": "2016-01-15 19:09:17"
+            "time": "2016-01-18 05:52:28"
         },
         {
             "name": "incenteev/composer-parameter-handler",
