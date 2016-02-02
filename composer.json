@@ -15,6 +15,9 @@
             "Tests\\": "tests/"
         }
     },
+    "config": {
+        "bin-dir": "bin"
+    },
     "require": {
         "php": ">=5.5.9",
         "symfony/symfony": "3.0.*",
