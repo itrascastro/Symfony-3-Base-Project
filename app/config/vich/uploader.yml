@@ -1,0 +1,7 @@
+vich_uploader:
+    db_driver: orm
+
+    mappings:
+        image_upload:
+            uri_prefix:         /images/upload
+            upload_destination: %kernel.root_dir%/../web/images/upload

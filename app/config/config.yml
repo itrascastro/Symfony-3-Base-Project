@@ -6,6 +6,7 @@ imports:
     - { resource: doctrine/extensions.yml }
     - { resource: fos/user.yml }
     - { resource: knp/paginator.yml }
+    - { resource: vich/uploader.yml }
 
 # Put parameters here that don't need to change on each machine where the app is deployed
 # http://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
@@ -43,6 +44,7 @@ twig:
     strict_variables: "%kernel.debug%"
     form_themes:
         - 'form-templates/bootstrap_3_layout.html.twig'
+        - 'VichUploaderBundle:Form:fields.html.twig'
 
 assetic:
     debug:          '%kernel.debug%'

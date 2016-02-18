@@ -18,6 +18,7 @@ class AppKernel extends Kernel
             new \Trascastro\UserBundle\UserBundle(),
             new \FOS\UserBundle\FOSUserBundle(),
             new \Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
+            new Vich\UploaderBundle\VichUploaderBundle(),
             new \Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new AppBundle\AppBundle(),
         );
