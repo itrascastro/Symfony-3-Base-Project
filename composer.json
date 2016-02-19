@@ -1,6 +1,7 @@
 {
     "name": "itrascastro/symfony-3-base-project",
     "license": "MIT",
+    "version": "1.0.1",
     "type": "project",
     "autoload": {
         "psr-4": {
