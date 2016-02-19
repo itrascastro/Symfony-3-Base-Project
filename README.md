@@ -16,6 +16,7 @@ Installed bundles and other stuff
 - translation enabled in config
 - symfony/assetic-bundle installed and configured
 - doctrine/doctrine-fixtures-bundle
+- vich/uploader-bundle installed and configured (with an example)
 
 Installation
 ------------
