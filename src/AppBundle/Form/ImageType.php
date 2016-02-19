@@ -25,7 +25,7 @@ class ImageType extends AbstractType
     public function configureOptions(OptionsResolver $resolver)
     {
         $resolver->setDefaults([
-            'data_class' => 'AppBundle\Entity\Product',
+            'data_class' => 'AppBundle\Entity\Image',
         ]);
     }
 
